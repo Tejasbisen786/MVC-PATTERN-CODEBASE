@@ -26,4 +26,4 @@ To run the code, follow these steps:
  - TEJAS BISEN
 
 ## Let's Connect
- - [(https://www.linkedin.com/tejasbisen/)]
+ - [https://www.linkedin.com/in/tejasbisen/]
